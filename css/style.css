@@ -354,12 +354,13 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 50%;
 }
 #fh5co-header h1, #fh5co-header nav {
-  margin: 38px 0 0 0;
+  margin: 0 0 0 0;
 }
 #fh5co-header nav {
   float: right;
   padding: 0;
 }
+
 @media screen and (max-width: 768px) {
   #fh5co-header nav {
     display: none;
