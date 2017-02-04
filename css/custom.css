@@ -6,3 +6,18 @@
   margin-top: 10px
   
 }
+
+.site-logo-center
+{
+  width:400px !important;
+  height: 400px !important;
+  display: block;
+  margin: 0 auto;
+}
+.kmug-logo-slider
+{
+  width:400px !important;
+  
+  display: block;
+  margin: 0 auto;
+}
