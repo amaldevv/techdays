@@ -21,3 +21,9 @@
   display: block;
   margin: 0 auto;
 }
+
+.slider-text-inner-white {
+  font-size: 50px;
+  font-weight: 300;
+  color: #fff;
+}
